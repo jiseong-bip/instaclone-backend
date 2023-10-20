@@ -1,0 +1,20 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiseong-bip/instaclone-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jiseong-bip/instaclone-backend/issues"
+  },
+  "homepage": "https://github.com/jiseong-bip/instaclone-backend#readme"
+}
