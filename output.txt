@@ -1,0 +1,402 @@
+[
+  {
+    "name": "AEX Amsterdam Index",
+    "symbol": "AEX"
+  },
+  {
+    "name": "Austrian Traded Index in EUR",
+    "symbol": "ATX"
+  },
+  {
+    "name": "S&P/ASX 200",
+    "symbol": "AXJO"
+  },
+  {
+    "name": "BEL-20 INDEX",
+    "symbol": "BEL20"
+  },
+  {
+    "name": "BSE Sensex 30",
+    "symbol": "BSESN"
+  },
+  {
+    "name": "Bovespa",
+    "symbol": "BVSP"
+  },
+  {
+    "name": "DAX Composite Index",
+    "symbol": "CDAXX"
+  },
+  {
+    "name": "Dow Jones Composite Average",
+    "symbol": "DJA"
+  },
+  {
+    "name": "Dow Jones Industrial Average",
+    "symbol": "DJI"
+  },
+  {
+    "name": "Dow Jones Transportation",
+    "symbol": "DJT"
+  },
+  {
+    "name": "Dow Jones US",
+    "symbol": "DJUS"
+  },
+  {
+    "name": "US Dollar Index",
+    "symbol": "DXY"
+  },
+  {
+    "name": "S&P 500 Futures",
+    "symbol": "ES"
+  },
+  {
+    "name": "CAC 40",
+    "symbol": "FCHI"
+  },
+  {
+    "name": "FTSE 100 Index (UK)",
+    "symbol": "FTSE"
+  },
+  {
+    "name": "DAX Index",
+    "symbol": "GDAXI"
+  },
+  {
+    "name": "The Global Dow USD",
+    "symbol": "GDOW"
+  },
+  {
+    "name": "S&P 500",
+    "symbol": "GSPC"
+  },
+  {
+    "name": "S&P TSX Composite Index (Canada)",
+    "symbol": "GSPTSE"
+  },
+  {
+    "name": "Hang Seng China Enterprise (CEI)",
+    "symbol": "HSCE"
+  },
+  {
+    "name": "Hang Seng Composite Index",
+    "symbol": "HSCI"
+  },
+  {
+    "name": "Hang Seng Index (Hong Kong)",
+    "symbol": "HSI"
+  },
+  {
+    "name": "IBEX 35 Index",
+    "symbol": "IBEX"
+  },
+  {
+    "name": "MOEX Russia Index",
+    "symbol": "IMOEX"
+  },
+  {
+    "name": "NASDAQ Composite",
+    "symbol": "IXIC"
+  },
+  {
+    "name": "KOSPI",
+    "symbol": "KS11"
+  },
+  {
+    "name": "S&P Midcap 400",
+    "symbol": "MID"
+  },
+  {
+    "name": "DAX Midcap Price",
+    "symbol": "MKDX"
+  },
+  {
+    "name": "EuroNext 100",
+    "symbol": "N100"
+  },
+  {
+    "name": "Nikkei 225 Index",
+    "symbol": "N225"
+  },
+  {
+    "name": "Nasdaq 100",
+    "symbol": "NDX"
+  },
+  {
+    "name": "Nifty 50",
+    "symbol": "NSEI"
+  },
+  {
+    "name": "NYSE US 100  Index",
+    "symbol": "NY"
+  },
+  {
+    "name": "NYSE Composite",
+    "symbol": "NYA"
+  },
+  {
+    "name": "NYSE Composite Total Return",
+    "symbol": "NYATR"
+  },
+  {
+    "name": "NYSE International 100 Index",
+    "symbol": "NYI"
+  },
+  {
+    "name": "NYSE World Leaders  Index",
+    "symbol": "NYL"
+  },
+  {
+    "name": "NEW ZEALAND EXCH NZSX 50 FREE IDX",
+    "symbol": "NZ50"
+  },
+  {
+    "name": "S&P 100",
+    "symbol": "OEX"
+  },
+  {
+    "name": "OMXS 30 Index",
+    "symbol": "OMX"
+  },
+  {
+    "name": "OMX Copenhagen 25 Index",
+    "symbol": "OMXC25"
+  },
+  {
+    "name": "OMX Stockholm 30",
+    "symbol": "OMXS30"
+  },
+  {
+    "name": "ARCA Technology 100",
+    "symbol": "PSE"
+  },
+  {
+    "name": "THE PHILIPPINE STOCK EXC PSEI INDEX",
+    "symbol": "PSEI"
+  },
+  {
+    "name": "PSI 20 Stock Index",
+    "symbol": "PSI20"
+  },
+  {
+    "name": "DOW JONES EQUITY ALL REIT TOTAL RETURN INDEX",
+    "symbol": "REIT"
+  },
+  {
+    "name": "RTSI Index (Russia)",
+    "symbol": "RTSI"
+  },
+  {
+    "name": "S&P GLOBAL 1200",
+    "symbol": "SGLY"
+  },
+  {
+    "name": "Swiss Mid Price",
+    "symbol": "SMIM"
+  },
+  {
+    "name": "Philadelphia Semiconductor Index",
+    "symbol": "SOX"
+  },
+  {
+    "name": "S&P 100 Index",
+    "symbol": "SP100"
+  },
+  {
+    "name": "S&P 500 ",
+    "symbol": "SP500NTR"
+  },
+  {
+    "name": "FTSE MIB IDX",
+    "symbol": "SPMIB"
+  },
+  {
+    "name": "S&P Preferred Stock Index",
+    "symbol": "SPPREF"
+  },
+  {
+    "name": "Shanghai Composite",
+    "symbol": "SSEC"
+  },
+  {
+    "name": "Swiss Market Index",
+    "symbol": "SSMI"
+  },
+  {
+    "name": "SZSE Composite",
+    "symbol": "SZSC"
+  },
+  {
+    "name": "Tel Aviv 100 Index",
+    "symbol": "TA100"
+  },
+  {
+    "name": "Tel Aviv 35 Index",
+    "symbol": "TA35"
+  },
+  {
+    "name": "Tadawul All Share",
+    "symbol": "TASI"
+  },
+  {
+    "name": "CBOE Interest Rate 10-Year T-Note  Index",
+    "symbol": "TNX"
+  },
+  {
+    "name": "Taiwan Weighted",
+    "symbol": "TWII"
+  },
+  {
+    "name": "Dow Jones 30 Futures",
+    "symbol": "US30"
+  },
+  {
+    "name": "S&P 500 Futures",
+    "symbol": "US500"
+  },
+  {
+    "name": "CBOE Volatility Index",
+    "symbol": "VIX"
+  },
+  {
+    "name": "CBOE Vix Volatility",
+    "symbol": "VVIX"
+  },
+  {
+    "name": "S&P 500 VIX Futures",
+    "symbol": "VX"
+  },
+  {
+    "name": "DJIA Volatility",
+    "symbol": "VXD"
+  },
+  {
+    "name": "WSE WIG INDEX",
+    "symbol": "WIG"
+  },
+  {
+    "name": "Philadelphia Gold/Silver",
+    "symbol": "XAU"
+  },
+  {
+    "name": "NYSE AMEX Composite",
+    "symbol": "XAX"
+  },
+  {
+    "name": "ARCA Computer Technology",
+    "symbol": "XCI"
+  },
+  {
+    "name": "ARCA Major Markets",
+    "symbol": "XMI"
+  },
+  {
+    "name": "ARCA Oil",
+    "symbol": "XOI"
+  },
+  {
+    "name": "BIST 100",
+    "symbol": "XU100"
+  },
+  {
+    "name": "Sharing Economy International Inc",
+    "symbol": "SEII"
+  },
+  {
+    "name": "AFC Gamma, Inc",
+    "symbol": "AFCG"
+  },
+  {
+    "name": "Short-Term Investment Trust - Invesco Government &",
+    "symbol": "AGPXX"
+  },
+  {
+    "name": "Aker Solutions ASA",
+    "symbol": "AKSO"
+  },
+  {
+    "name": "Alarko Holding AS",
+    "symbol": "ALARK"
+  },
+  {
+    "name": "Ambea AB",
+    "symbol": "AMBEA"
+  },
+  {
+    "name": "Arcadis NV",
+    "symbol": "ARCAD"
+  },
+  {
+    "name": "Arcelik AS",
+    "symbol": "ARCLK"
+  },
+  {
+    "name": "Aspire Real Estate Investors, Inc.",
+    "symbol": "ASPI"
+  },
+  {
+    "name": "Boozt AB",
+    "symbol": "BOOZT"
+  },
+  {
+    "name": "ComStage iBoxx € Grmny Cov Cpd Ovrll ETF",
+    "symbol": "C540"
+  },
+  {
+    "name": "Capitol Investment Corp. V",
+    "symbol": "CAP-UN"
+  },
+  {
+    "name": "Churchill Capital Corp V",
+    "symbol": "CCV-UN"
+  },
+  {
+    "name": "CF Acquisition Corp. V",
+    "symbol": "CFVU"
+  },
+  {
+    "name": "ChemoMetec A/S",
+    "symbol": "CHEMM"
+  },
+  {
+    "name": "Concord Acquisition Corp",
+    "symbol": "CND-UN"
+  },
+  {
+    "name": "Com7 PCL",
+    "symbol": "COM7-F"
+  },
+  {
+    "name": "Dreyfus Government Cash Management Funds - Dreyfus",
+    "symbol": "DAPXX"
+  },
+  {
+    "name": "Dreyfus Treasury Obligations Cash Management",
+    "symbol": "DTRXX"
+  },
+  {
+    "name": "Lyxor Smart Overnight Return",
+    "symbol": "EGV2"
+  },
+  {
+    "name": "Lyxor Euro Government Bond 1-3Y (DR) ETF",
+    "symbol": "EGV3"
+  },
+  {
+    "name": "S&P500 EMINI MAR 21",
+    "symbol": "ESH1"
+  },
+  {
+    "name": "First American Funds, Inc. - Government Obligation",
+    "symbol": "FGXXX"
+  },
+  {
+    "name": "Fjordkraft Holding ASA Ordinary Shares",
+    "symbol": "FKRFT"
+  },
+  {
+    "name": "Goldman Sachs Trust - Goldman Sachs Financial Squa",
+    "symbol": "FRAXX"
+  }
+]

@@ -6,30 +6,30 @@ export default {
     unfollowUser: protectedResolver(
       async (_, { username }, { loggedInUser }) => {
         const ok = await client.user.findUnique({
-          where: { username },
+          where: { username }
         });
         if (!ok) {
           return {
             ok: false,
-            error: "Can't unfollow user.",
+            error: "Can't unfollow user."
           };
         }
         await client.user.update({
           where: {
-            id: loggedInUser.id,
+            id: loggedInUser.id
           },
           data: {
             following: {
               disconnect: {
-                username,
-              },
-            },
-          },
+                username
+              }
+            }
+          }
         });
         return {
-          ok: true,
+          ok: true
         };
       }
-    ),
-  },
+    )
+  }
 };

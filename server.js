@@ -17,26 +17,26 @@ const app = express();
 const PORT = process.env.PORT;
 const httpServer = http.createServer(app);
 const server = new ApolloServer({
-    typeDefs,
-    resolvers,
-    plugins: [ApolloServerPluginDrainHttpServer({ httpServer })],
+  typeDefs,
+  resolvers,
+  plugins: [ApolloServerPluginDrainHttpServer({ httpServer })]
 });
 
 await server.start();
 
 app.use(
-    "/graphql",
-    //logger("tiny"),
-    cors(),
-    json(),
-    graphqlUploadExpress(),
-    expressMiddleware(server, {
+  "/graphql",
+  //logger("tiny"),
+  cors(),
+  json(),
+  graphqlUploadExpress(),
+  expressMiddleware(server, {
     context: async ({ req }) => {
-        return {
-            loggedInUser: await getUser(req.headers.authorization),
-        };
-    },
-    }),
+      return {
+        loggedInUser: await getUser(req.headers.authorization)
+      };
+    }
+  })
 );
 
 app.use("/static", express.static("uploads"));

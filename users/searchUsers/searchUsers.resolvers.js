@@ -1,16 +1,16 @@
-import client from "../../client.js"
+import client from "../../client.js";
 
 export default {
-    Query: {
-        searchUsers: async(_, {keywords}) => {
-            client.user.findMany({
-                where: {
-                  username: {
-                    mode: "insensitive",
-                    startsWith: keywords,
-                  },
-                },
-              })
+  Query: {
+    searchUsers: async (_, { keywords }) => {
+      client.user.findMany({
+        where: {
+          username: {
+            mode: "insensitive",
+            startsWith: keywords
+          }
         }
+      });
     }
-}
+  }
+};
